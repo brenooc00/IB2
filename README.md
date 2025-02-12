@@ -1,2 +1,2 @@
-# Instrumenta-o-Biom-dica-2
+# Instrumentação Biomédica 2
 Repositório destinado a elaboração de projetos de dispositivos médicos na disciplina de instrumentação biomédica 2
